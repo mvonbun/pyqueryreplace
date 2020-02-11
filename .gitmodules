@@ -1,0 +1,6 @@
+[submodule "pyprintfancy"]
+	path = pyprintfancy
+	url = https://github.com/mvonbun/pyprintfancy.git
+[submodule "pygetch"]
+	path = pygetch
+	url = https://github.com/mvonbun/pygetch.git
